@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/stanislav-saduro">
+  <a href="https://www.linkedin.com/in/stanislav-saduro-4045b3305/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://public.tableau.com/app/profile/stanislav.saduro">
@@ -61,7 +61,7 @@ SQL (PostgreSQL, MySQL)  ·  Python (Pandas, NumPy)  ·  Tableau  ·  Power BI (
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/stanislav-saduro)
+- 💼 [LinkedIn](https://www.linkedin.com/in/stanislav-saduro-4045b3305/)
 - 📧 [stas.saduro@gmail.com](mailto:stas.saduro@gmail.com)
 - 📊 [Tableau Public](https://public.tableau.com/app/profile/stanislav.saduro)
 
